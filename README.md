@@ -1,6 +1,6 @@
 # Country
 
-Estudo sobre swift e Xcode
+Estudo sobre swift e Xcode focado no UIKit
 
 ## 🛠️ Construído com
 
