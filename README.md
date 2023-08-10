@@ -7,7 +7,7 @@ Estudo sobre swift e Xcode focado no UIKit
 * [Xcode](https://developer.apple.com/xcode/)
 * [VS Code](https://code.visualstudio.com)
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **AIWASS23** - *Trabalho Inicial* - [Marcelo de Araújo](https://github.com/AIWASS23)
 
